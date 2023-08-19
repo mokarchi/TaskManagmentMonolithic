@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.Data\\Infrastructure.Data.csproj",
-        "projectName": "Infrastructure.Data",
+        "projectName": "TaskManagment.Infrastructure.Data",
         "projectPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.Data\\Infrastructure.Data.csproj",
         "packagesPath": "D:\\Users\\a.mokarchi\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.Data\\obj\\",

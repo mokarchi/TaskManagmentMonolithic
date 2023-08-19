@@ -2,10 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>c97f800e-7c14-4957-ac33-94393b1dd28c</UserSecretsId>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+	  <AssemblyName>TaskManagment.web</AssemblyName>
+	  <RootNamespace>TaskManagment.web</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

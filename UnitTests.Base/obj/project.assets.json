@@ -5524,7 +5524,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\UnitTests.Base\\UnitTests.Base.csproj",
-      "projectName": "UnitTests.Base",
+      "projectName": "TaskManagment.UnitTests.Base",
       "projectPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\UnitTests.Base\\UnitTests.Base.csproj",
       "packagesPath": "D:\\Users\\a.mokarchi\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\UnitTests.Base\\obj\\",

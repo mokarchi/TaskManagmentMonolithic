@@ -2,9 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-
+	  <AssemblyName>TaskManagment.UnitTests.Base</AssemblyName>
+	  <RootNamespace>TaskManagment.UnitTests.Base</RootNamespace>
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>

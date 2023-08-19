@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Application\\Application.csproj",
-      "projectName": "Application",
+      "projectName": "TaskManagment.Application",
       "projectPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Application\\Application.csproj",
       "packagesPath": "D:\\Users\\a.mokarchi\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Application\\obj\\",

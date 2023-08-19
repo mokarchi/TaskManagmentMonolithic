@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
-      "projectName": "Infrastructure.CrossCutting",
+      "projectName": "TaskManagment.Infrastructure.CrossCutting",
       "projectPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
       "packagesPath": "D:\\Users\\a.mokarchi\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.CrossCutting\\obj\\",

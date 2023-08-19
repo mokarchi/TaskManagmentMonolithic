@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Domain.Core\\Domain.Core.csproj",
-        "projectName": "Domain.Core",
+        "projectName": "TaskManagment.Domain.Core",
         "projectPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Domain.Core\\Domain.Core.csproj",
         "packagesPath": "D:\\Users\\a.mokarchi\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Domain.Core\\obj\\",

@@ -241,20 +241,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TaskManagment.web.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Web.props",
-      "PackagePath": "build\\Web.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TaskManagment.web.props",
+      "PackagePath": "build\\TaskManagment.web.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
-      "PackagePath": "buildMultiTargeting\\Web.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagment.web.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagment.web.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
-      "PackagePath": "buildTransitive\\Web.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TaskManagment.web.props",
+      "PackagePath": "buildTransitive\\TaskManagment.web.props"
     }
   ],
   "ElementsToRemove": []
