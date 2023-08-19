@@ -1,0 +1,11 @@
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\bin\Debug\net7.0\Infrastructure.CrossCutting.deps.json
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\bin\Debug\net7.0\Infrastructure.CrossCutting.dll
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\bin\Debug\net7.0\Infrastructure.CrossCutting.pdb
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\Infrastructure.CrossCutting.AssemblyInfo.cs
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\Infrastructure.CrossCutting.dll
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\refint\Infrastructure.CrossCutting.dll
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\Infrastructure.CrossCutting.pdb
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.CrossCutting\obj\Debug\net7.0\ref\Infrastructure.CrossCutting.dll

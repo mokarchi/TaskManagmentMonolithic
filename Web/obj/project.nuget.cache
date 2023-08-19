@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9goUznr1dmFZVDdIyFI82tV1BoIReqTxxthg0KJ2KyvKUcCXb+Uyw9jPxUDqP06eWWoOfFosQpGz2T6LMkBJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\a.mokarchi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}

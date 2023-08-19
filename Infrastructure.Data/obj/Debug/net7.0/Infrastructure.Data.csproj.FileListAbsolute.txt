@@ -1,0 +1,11 @@
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.deps.json
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.dll
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.pdb
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.AssemblyInfo.cs
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.dll
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\refint\Infrastructure.Data.dll
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.pdb
+D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Infrastructure.Data\obj\Debug\net7.0\ref\Infrastructure.Data.dll
