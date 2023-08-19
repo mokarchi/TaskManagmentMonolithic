@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManagment.web
 build_property.RootNamespace = TaskManagment.web
-build_property.ProjectDir = D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Web\
+build_property.ProjectDir = D:\TaskManagmentMonolithic\Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Users\a.mokarchi\source\repos\TaskManagmentMonolithic\Web
+build_property.MSBuildProjectDirectory = D:\TaskManagmentMonolithic\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/Error.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/Index.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/Privacy.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/Shared/_Layout.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/_ViewImports.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Users/a.mokarchi/source/repos/TaskManagmentMonolithic/Web/Pages/_ViewStart.cshtml]
+[D:/TaskManagmentMonolithic/Web/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

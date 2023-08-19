@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bVZYKnnHze3fiY9LJrSJ7vuY0Io54Y/TDFZw/20yvXDgq2y1V8H2lK6l5UiqReRUhMNhkjNSVVrQ6xfRpj7NiQ==",
+  "dgSpecHash": "uALYpP8EYhXjNWG7pDl+47VXaILxCalvUOysHabcKyIBGK/26sjLgCmzVWlMRJyKSxnF8/qX8wb76RnT05Ul0Q==",
   "success": true,
-  "projectFilePath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.Data\\Infrastructure.Data.csproj",
+  "projectFilePath": "D:\\TaskManagmentMonolithic\\Infrastructure.Data\\Infrastructure.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

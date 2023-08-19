@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qp/dkuZNZfufeo2ffMUWqCbig9sGV5rLZ1uObgzd+WZk9CghSTc6ndKKUUS+RaHCGPX9tiQKqS+WV2ossNumpw==",
+  "dgSpecHash": "QRtWLbIEX4LAwU2pyRat2gf/CGxNKSTi3kshJvcGra7hRZGER0ouaSfFPXXTzSOlcm4Co0qnqbssXz54rnmEAA==",
   "success": true,
-  "projectFilePath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+  "projectFilePath": "D:\\TaskManagmentMonolithic\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

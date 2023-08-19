@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1fRRCAI/JHjnWiTnnGMIKy1K/uqhVJAry9veefidcoBLdVYQl3IbHqKf5O0IymwD19HKkG4XdwtSebOMaILXQ==",
+  "dgSpecHash": "x5vBWLFnKHxtECtcZU5o9bTwsLxMLI083RBaiOvNQBuLC7pzyeJEg+Eu27ZIi3mEPFuIJKFvt+Pz9sKTl4oV/w==",
   "success": true,
-  "projectFilePath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Application\\Application.csproj",
+  "projectFilePath": "D:\\TaskManagmentMonolithic\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

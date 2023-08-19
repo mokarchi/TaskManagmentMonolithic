@@ -100,19 +100,24 @@
     ]
   },
   "packageFolders": {
-    "D:\\Users\\a.mokarchi\\.nuget\\packages\\": {}
+    "C:\\Users\\Amir\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Web\\Web.csproj",
+      "projectUniqueName": "D:\\TaskManagmentMonolithic\\Web\\Web.csproj",
       "projectName": "TaskManagment.web",
-      "projectPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Web\\Web.csproj",
-      "packagesPath": "D:\\Users\\a.mokarchi\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\a.mokarchi\\source\\repos\\TaskManagmentMonolithic\\Web\\obj\\",
+      "projectPath": "D:\\TaskManagmentMonolithic\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\Amir\\.nuget\\packages\\",
+      "outputPath": "D:\\TaskManagmentMonolithic\\Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "D:\\Users\\a.mokarchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
