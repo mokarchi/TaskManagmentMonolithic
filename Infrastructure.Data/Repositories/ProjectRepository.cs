@@ -5,9 +5,9 @@ using TaskManagment.Domain.Data;
 
 namespace TaskManagment.Infrastructure.Data.Repositories
 {
-    public class TaskRepository : Repository<Domain.Models.Task>, ITaskRepository
+    public class ProjectRepository : Repository<Domain.Models.Project>, IProjectRepository
     {
-        public Task<IEnumerable<Domain.Models.Task>> GetListByBoardIdAsync(string boardId)
+        public Task<IEnumerable<Domain.Models.Project>> GetListByOrganizationIdAsync(string organizationId)
         {
             throw new NotImplementedException();
         }

@@ -6,6 +6,6 @@ namespace TaskManagment.Domain.Data
 {
     public interface ITaskRepository : IRepository<Models.Task>
     {
-        Task<IEnumerable<Task>> GetListByBoardIdAsync(string boardId);
+        Task<IEnumerable<Models.Task>> GetListByBoardIdAsync(string boardId);
     }
 }

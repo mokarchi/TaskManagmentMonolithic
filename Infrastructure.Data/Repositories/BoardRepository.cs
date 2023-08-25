@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using TaskManagment.Domain.Data;
+using TaskManagment.Domain.Models;
 
 namespace TaskManagment.Infrastructure.Data.Repositories
 {
-    public class TaskRepository : Repository<Domain.Models.Task>, ITaskRepository
+    public class BoardRepository : Repository<Board>, IBoardRepository
     {
-        public Task<IEnumerable<Domain.Models.Task>> GetListByBoardIdAsync(string boardId)
+        public Task<IEnumerable<Board>> GetListByBoardIdAsync(string boardId)
         {
             throw new NotImplementedException();
         }
