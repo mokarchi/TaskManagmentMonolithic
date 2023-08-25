@@ -22,8 +22,8 @@
             {
                 app.UseDeveloperExceptionPage();
             }
-            serviceScopeFactory.InitialDatabase();
-            serviceScopeFactory.SeedDatabase();
+            //serviceScopeFactory.InitialDatabase();
+            //serviceScopeFactory.SeedDatabase();
 
             app.UseHttpsRedirection();
 
