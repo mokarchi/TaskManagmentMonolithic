@@ -408,6 +408,9 @@
       "TaskManagment.Infrastructure.CrossCutting/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "TaskManagment.Infrastructure.Data": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/TaskManagment.Infrastructure.CrossCutting.dll": {}
         },
