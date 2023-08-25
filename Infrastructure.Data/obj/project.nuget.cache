@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "IlSSwEOt1WEdVDN8aHFsvhGaI88656zudZe5pM3C3BPvZ83OgvtFBL2RD8Yu3Zpkm4JvuJi1V/Eu2Nth/aOMLQ==",
+  "dgSpecHash": "hoFrtccBfgzW8XQh+L0wR1bO4+Zj/aFBDrA66lFE5q5VcjrG+SDDHl0cXtCP2yqAJT6Ztdk+GpiRJUbfArrcuQ==",
   "success": true,
   "projectFilePath": "D:\\TaskManagmentMonolithic\\Infrastructure.Data\\Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Amir\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Amir\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Amir\\.nuget\\packages\\mongocsharpdriver\\2.21.0\\mongocsharpdriver.2.21.0.nupkg.sha512",
