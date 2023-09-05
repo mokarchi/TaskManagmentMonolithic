@@ -1,12 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using TaskManagment.Domain.Core.Data;
-using TaskManagment.Domain.Models;
 
 namespace TaskManagment.Domain.Data
 {
-    public interface IBoardRepository : IRepository<Board>
+    public interface IBoardRepository : IRepository<Models.Board>
     {
-        Task<IEnumerable<Board>> GetListByBoardIdAsync(string boardId);
+        Task<IEnumerable<Models.Board>> GetListByBoardIdAsync(string boardId);
     }
 }

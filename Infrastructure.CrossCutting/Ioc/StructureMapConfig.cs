@@ -1,5 +1,10 @@
-﻿using System;
-using System.ComponentModel;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using StructureMap;
+using System;
+using TaskManagment.Domain.Data;
+using TaskManagment.Infrastructure.Data.DbContext;
+using TaskManagment.Infrastructure.Data.Repositories;
 
 namespace TaskManagment.Infrastructure.CrossCutting.Ioc
 {
@@ -13,7 +18,7 @@ namespace TaskManagment.Infrastructure.CrossCutting.Ioc
             var container = new Container();
             container.Configure(config =>
             {
-                config.For<IMongoDbContext>().Use<MongoDbContext>();
+                config.For<IMainDbContext>().Use<MainDbContext>();
                 config.For<ITaskRepository>().Use<TaskRepository>();
                 config.For<IBoardRepository>().Use<BoardRepository>();
                 config.For<IOrganizationRepository>().Use<OrganizationRepository>();

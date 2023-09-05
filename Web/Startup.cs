@@ -1,18 +1,23 @@
-﻿namespace Web
+﻿using TaskManagment.Infrastructure.CrossCutting.Identity;
+using TaskManagment.Infrastructure.CrossCutting.Ioc;
+
+namespace Web
 {
     public class Startup
     {
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            _configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        public IConfiguration _configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+        public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddIdentityConfiguration(_configuration);
+            return services.ConfigureIocContainer(_configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -6,7 +6,7 @@ using TaskManagment.Domain.Models;
 
 namespace TaskManagment.Infrastructure.Data.Repositories
 {
-    public class OrganizationRepository : Repository<Organization>, IOrganizationRepository
+    public class OrganizationRepository : Repository<Domain.Models.Organization>, IOrganizationRepository
     {
         public Task<IEnumerable<Organization>> GetListByUserIdAsync(string userId)
         {

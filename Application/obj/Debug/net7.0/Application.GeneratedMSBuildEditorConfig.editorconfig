@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManagment.Application
-build_property.ProjectDir = D:\TaskManagmentMonolithic\Application\
+build_property.ProjectDir = D:\Users\a.mokarchi\Source\Repos\TaskManagmentMonolithic\Application\

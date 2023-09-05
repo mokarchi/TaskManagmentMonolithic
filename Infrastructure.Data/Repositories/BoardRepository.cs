@@ -6,7 +6,7 @@ using TaskManagment.Domain.Models;
 
 namespace TaskManagment.Infrastructure.Data.Repositories
 {
-    public class BoardRepository : Repository<Board>, IBoardRepository
+    public class BoardRepository : Repository<Domain.Models.Board>, IBoardRepository
     {
         public Task<IEnumerable<Board>> GetListByBoardIdAsync(string boardId)
         {

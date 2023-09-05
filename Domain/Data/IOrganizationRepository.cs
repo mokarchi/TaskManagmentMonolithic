@@ -1,12 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using TaskManagment.Domain.Core.Data;
-using TaskManagment.Domain.Models;
 
 namespace TaskManagment.Domain.Data
 {
-    public interface IOrganizationRepository : IRepository<Organization>
+    public interface IOrganizationRepository : IRepository<Models.Organization>
     {
-        Task<IEnumerable<Organization>> GetListByUserIdAsync(string userId);
+        Task<IEnumerable<Models.Organization>> GetListByUserIdAsync(string userId);
     }
 }

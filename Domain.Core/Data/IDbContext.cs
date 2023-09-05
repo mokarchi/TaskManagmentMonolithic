@@ -1,9 +1,9 @@
 ﻿using MongoDB.Driver;
 using System.Collections.Generic;
 
-namespace TaskManagment.Infrastructure.Data.DbContext
+namespace TaskManagment.Domain.Core.Data
 {
-    public interface IMongoDbContext
+    public interface IDbContext
     {
         /// <summary>
         /// get collection by entity type or by its name when the name of collection not "{entity name}"+s

@@ -2,11 +2,10 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using TaskManagment.Domain.Core.Data;
-using TaskManagment.Domain.Core.Models;
 
 namespace TaskManagment.Infrastructure.Data.Repositories
 {
-    public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseEntity
+    public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
         public Repository()
         {
