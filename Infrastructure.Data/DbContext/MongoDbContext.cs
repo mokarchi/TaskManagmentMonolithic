@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace TaskManagment.Infrastructure.Data.DbContext
 {
-    public class MainDbContext : IMainDbContext
+    public class MongoDbContext : IMainDbContext
     {
         #region Fields
 
@@ -19,7 +19,7 @@ namespace TaskManagment.Infrastructure.Data.DbContext
         #region Ctor
 
 
-        public MainDbContext(IConfiguration configuration)
+        public MongoDbContext(IConfiguration configuration)
         {
             _dbName = configuration["Mongo:Database"];
             _connectionString = configuration["Mongo:Connection"];

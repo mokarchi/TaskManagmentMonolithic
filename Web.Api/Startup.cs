@@ -1,4 +1,5 @@
 ﻿using TaskManagment.Infrastructure.CrossCutting.Ioc;
+using TaskManagment.Infrastructure.Data.DataProviders;
 
 namespace Web.Api
 {
@@ -25,8 +26,8 @@ namespace Web.Api
             {
                 app.UseDeveloperExceptionPage();
             }
-            //serviceScopeFactory.InitialDatabase();
-            //serviceScopeFactory.SeedDatabase();
+            serviceScopeFactory.InitialDatabase();
+            serviceScopeFactory.SeedDatabase();
 
             app.UseHttpsRedirection();
 
