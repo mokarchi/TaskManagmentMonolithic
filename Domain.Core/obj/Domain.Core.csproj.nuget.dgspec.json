@@ -44,6 +44,14 @@
               "target": "Package",
               "version": "[8.3.3, )"
             },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
             "mongocsharpdriver": {
               "target": "Package",
               "version": "[2.21.0, )"

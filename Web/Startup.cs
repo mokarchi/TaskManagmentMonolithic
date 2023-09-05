@@ -16,6 +16,7 @@ namespace Web
         public IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddMediatR(typeof(Startup));
             services.AddIdentityConfiguration(_configuration);
             return services.ConfigureIocContainer(_configuration);
         }

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "walgo9uXNRPB4bQ7oWujVv9Q2T/ePQtNYbtz4eyu8EHg158VmmSOq225J970Mreb1v8nkTib9ZLk69gbxVMhmQ==",
+  "dgSpecHash": "ZV3HSyWMdODFYLKsaezxtM10Gms+ubgMGAJNfbhOhRbeTU3wLEBSje3p+H8kYX3A+Ed+5KgODKbaOFZRWPezMQ==",
   "success": true,
   "projectFilePath": "D:\\Users\\a.mokarchi\\Source\\Repos\\TaskManagmentMonolithic\\Web.Api\\Web.Api.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\aspnetcore.identity.mongo\\8.3.3\\aspnetcore.identity.mongo.8.3.3.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "D:\\Users\\a.mokarchi\\.nuget\\packages\\csharpfunctionalextensions\\2.40.0\\csharpfunctionalextensions.2.40.0.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.server.abstractions.2.0.0.nupkg.sha512",

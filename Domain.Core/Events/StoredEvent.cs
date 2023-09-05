@@ -19,3 +19,4 @@ namespace TaskManagment.Domain.Core.Events
         public string UserId { get; private set; }
         public DateTime CreateDateTime { get; private set; }
     }
+}

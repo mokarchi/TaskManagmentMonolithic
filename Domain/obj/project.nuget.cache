@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VEBZPDfJ9e0FnAz+WB8NxsB0ggqXdhtqd6wEbhOW928ZzLe8fnHe8KSYb0WPj0tKr8/RK15x2Z1iAcdTCjffOA==",
+  "dgSpecHash": "TanRwWDBQMg9y2ekRoKB8AHdU3TWI85Ae79g4AKjdRhKkaMfZRsa45T+/o9okM4RN4XeyvUkLGqYeMQLmp0H5Q==",
   "success": true,
   "projectFilePath": "D:\\Users\\a.mokarchi\\Source\\Repos\\TaskManagmentMonolithic\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\aspnetcore.identity.mongo\\8.3.3\\aspnetcore.identity.mongo.8.3.3.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "D:\\Users\\a.mokarchi\\.nuget\\packages\\csharpfunctionalextensions\\2.40.0\\csharpfunctionalextensions.2.40.0.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "D:\\Users\\a.mokarchi\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

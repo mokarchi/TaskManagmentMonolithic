@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[8.3.3, )"
             },
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            },
             "mongocsharpdriver": {
               "target": "Package",
               "version": "[2.21.0, )"
